@@ -101,7 +101,7 @@ src/
 - ✅ Chart.js charts for admin analytics
 - ✅ Smooth animations and transitions
 - ✅ Dark theme, smart city aesthetic
-- ✅ No backend required
+- ✅ Cloud backend required
 
 ---
 
@@ -112,14 +112,4 @@ cp .env.example .env
 # Edit .env as needed (optional – app works without it)
 ```
 
----
 
-## 🏆 Hackathon Notes
-
-This project is a **frontend-only demo** using mock data and local state. 
-All interactions are simulated. Ready to connect to a real backend API by 
-replacing mock data calls with `fetch`/`axios` in `AppContext.jsx`.
-
----
-
-Built with ❤️ for hackathons and smart city demos.
